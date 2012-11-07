@@ -1,0 +1,8 @@
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\ConsoleClient\SMLibrary\bin\Debug\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\ConsoleClient\SMLibrary\bin\Debug\SMLibrary.pdb
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\ConsoleClient\SMLibrary\obj\Debug\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\ConsoleClient\SMLibrary\obj\Debug\SMLibrary.pdb
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\bin\Debug\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\bin\Debug\SMLibrary.pdb
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\obj\Debug\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\obj\Debug\SMLibrary.pdb

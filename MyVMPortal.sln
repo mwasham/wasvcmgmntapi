@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVMPortal", "MyVMPortal\MyVMPortal.csproj", "{8FA1ADBF-13C4-4C66-8FC6-C1E460B461F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMLibrary", "SMLibrary\SMLibrary.csproj", "{88C5F787-E4A6-4C76-8C24-E38116F0317E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA1ADBF-13C4-4C66-8FC6-C1E460B461F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA1ADBF-13C4-4C66-8FC6-C1E460B461F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA1ADBF-13C4-4C66-8FC6-C1E460B461F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA1ADBF-13C4-4C66-8FC6-C1E460B461F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C5F787-E4A6-4C76-8C24-E38116F0317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C5F787-E4A6-4C76-8C24-E38116F0317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C5F787-E4A6-4C76-8C24-E38116F0317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C5F787-E4A6-4C76-8C24-E38116F0317E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

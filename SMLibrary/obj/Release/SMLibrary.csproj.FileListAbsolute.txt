@@ -1,0 +1,4 @@
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\bin\Release\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\bin\Release\SMLibrary.pdb
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\obj\Release\SMLibrary.dll
+D:\User-Data\Advanced IaaS\Demos\ServiceManagementAPI\SMLibrary\obj\Release\SMLibrary.pdb
